@@ -1,0 +1,8 @@
+services:
+  onnx-talk:
+    build:
+      target: dev
+      context: onnx-talk/.
+    volumes:
+      - .:/workspace:cached
+    command: sleep infinity

@@ -1,0 +1,18 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/docker-existing-docker-compose
+{
+	"name": "onnx-talk",
+	"dockerComposeFile": ["../compose-dev.yml"],
+	"service": "onnx-talk",
+	"shutdownAction": "stopCompose",
+	"workspaceFolder": "/workspace/onnx-talk",
+	"forwardPorts": [3030],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"antfu.slidev",
+				"Vue.volar"
+			]
+		}
+	}
+}
