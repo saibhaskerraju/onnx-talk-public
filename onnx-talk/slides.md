@@ -152,6 +152,7 @@ ONNX runtime in VS Code
 - supply the value and get a prediction.
 
 <!--
+https://github.com/onnx/models
 https://huggingface.co/spaces/MaziyarPanahi/Phi-3.5-Vision 
 https://github.com/microsoft/onnxruntime-inference-examples/tree/main/js/chat 
 -->
@@ -196,4 +197,4 @@ class: text-center
 
 # Learn More
 
-[Documentation](https://onnxruntime.ai/) · [GitHub](https://github.com/saibhaskerraju/onnx-public) . [Phi 3.5 Vision](https://huggingface.co/spaces/MaziyarPanahi/Phi-3.5-Vision) .[Phi3-Onnx](https://github.com/microsoft/onnxruntime-inference-examples/tree/main/js/chat)
+[Documentation](https://onnxruntime.ai/) · [GitHub](https://github.com/saibhaskerraju/onnx-public) . [Phi 3.5 Vision](https://huggingface.co/spaces/MaziyarPanahi/Phi-3.5-Vision) .[Phi3-Onnx](https://github.com/microsoft/onnxruntime-inference-examples/tree/main/js/chat) .[Onnx Zoo](https://github.com/onnx/models)
